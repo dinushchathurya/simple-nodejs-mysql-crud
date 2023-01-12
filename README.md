@@ -6,6 +6,10 @@
 npm install
 ```
 
+### Setup Database
+
+Create database called `usermanagement_tut` and then import `schema.sql` and `data.sql`
+
 ### Run in development mode
 
 ```bash
